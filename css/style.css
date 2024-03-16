@@ -20,6 +20,9 @@ html {
 
 *:focus {
   outline: none;
+  box-shadow: 0 0 0 0.8rem rgba(230, 125, 34, 0.5);
+  /* it does look cool thought but eh */
+  /* click tab if you still dont get it */
 }
 
 strong {
